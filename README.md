@@ -1,4 +1,4 @@
-# Projeto Eventify
+# Projeto Eventify - _Projeto em desenvolvimento_
 
 <p>Este é um projeto pessoal de um site de Eventos, desenvolvido utilizando Node.js, Tailwind CSS, React.js e MongoDB. O objetivo deste projeto é treinar minhas habilidades no desenvolvimento de aplicações web.</p>
 
@@ -15,9 +15,4 @@
 * Informações sobre os eventos: Os usuários poderão obter informações detalhadas sobre cada evento, incluindo detalhes adicionais sobre os organizadores, programação, palestrantes convidados, atividades previstas, entre outros.
 * Gerenciamento de eventos: Os organizadores ou administradores do site de eventos terão acesso a recursos para adicionar, editar e remover eventos. Eles poderão definir informações como localidade, data, hora, palestrantes, ingressos disponíveis e outras informações relevantes.
 
-## Instalação e Execução
-* Faça o clone deste repositório. Navegue até o diretório raiz do projeto. 
-* Execute o comando npm install para instalar as dependências do projeto.
-* Configure as variáveis de ambiente no arquivo .env com as informações necessárias para a conexão com o banco de dados e outras configurações específicas.
-* Execute o comando npm start para iniciar a aplicação.
-* Acesse o Eventify no seu navegador através do endereço http://localhost:3333.
+---
