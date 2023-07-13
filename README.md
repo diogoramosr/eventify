@@ -15,4 +15,14 @@
 * Informações sobre os eventos: Os usuários poderão obter informações detalhadas sobre cada evento, incluindo detalhes adicionais sobre os organizadores, programação, palestrantes convidados, atividades previstas, entre outros.
 * Gerenciamento de eventos: Os organizadores ou administradores do site de eventos terão acesso a recursos para adicionar, editar e remover eventos. Eles poderão definir informações como localidade, data, hora, palestrantes, ingressos disponíveis e outras informações relevantes.
 
+<div>
+  <div>
+    <img src="https://github.com/diogoramosr/eventify/assets/100318805/2af1b77e-022c-4831-811f-bf0accf8989c" alt="screen1">
+  </div>
+  <div align="center">
+    <img src="https://github.com/diogoramosr/eventify/assets/100318805/8f5953a6-4fce-4790-a1ca-08ae017b4806" alt="screen2" style="width: 450px;">
+    <img src="https://github.com/diogoramosr/eventify/assets/100318805/447b94dd-8d69-436a-b9e6-91167c8afbd9" alt="screen3" style="width: 450px;">
+  </div>
+</div>
+
 ---
